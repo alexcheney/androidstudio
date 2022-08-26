@@ -1,0 +1,48 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="AddToFavoritesPopup" />
+  <action id="CIDR.Lang.ObjC.IntroduceIvar" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RerunTests" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
+  <action id="SelectVirtualTemplateElement" />
+  <action id="ShowFilterPopup" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
+  <action id="ToggleRenderedDocPresentation" />
+  <action id="UpdateRunningApplication" />
+  <action id="UsageGrouping.FileStructure" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="context.save" />
+</keymap>
