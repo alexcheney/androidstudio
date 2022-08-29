@@ -87,9 +87,7 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="valueLookupDelay" value="150" />
-    </data-views>
+    <data-views />
     <general />
   </component>
 </application>
