@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
