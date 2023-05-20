@@ -4,15 +4,23 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="CIDR.Lang.ObjC.IntroduceIvar" />
   <action id="EditorDeleteLine" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl alt 3" />
   </action>
+  <action id="ShowFilterPopup" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt q" />
   </action>
   <action id="ToggleRenderedDocPresentation" />
   <action id="UpdateRunningApplication" />
+  <action id="UsageGrouping.FileStructure" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
