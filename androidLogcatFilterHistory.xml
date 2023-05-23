@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="jp.pokemon.pokemonunite" />
+    <option name="mostRecentlyUsed" value="mine" />
     <option name="nonFavorites">
       <list>
+        <option value="mine" />
         <option value="jp.pokemon.pokemonunite" />
         <option value=" " />
         <option value="package:mine" />
