@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="net_interface" />
+        <option value="net_interface_helper" />
         <option value="mine" />
         <option value="jp.pokemon.pokemonunite" />
         <option value=" " />
